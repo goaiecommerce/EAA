@@ -1,0 +1,14 @@
+{
+  "name": "goai/eaa2025",
+  "description": "GoAI EAA Module for Magento 2.",
+  "type": "magento2-module",
+  "license": "MIT",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "GoAI\\EAA\\": ""
+    }
+  }
+}
